@@ -14,5 +14,6 @@
  <a href="admin/students.php">Record Student</a> |
  <a href="admin/enroll.php">Enroll</a> |
  <a href="admin/enrollments.php">Enrollments</a>
+ <a href="admin/reports.php">Reports</a>
  </nav>
  <main>

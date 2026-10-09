@@ -1,5 +1,5 @@
 <?php
-// admin/reports.php
+//admin/reports.php
 
 require_once __DIR__ . '/../config/db.php';
 require_once __DIR__ . '/../classes/EnrollmentRepository.php';
